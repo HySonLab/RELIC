@@ -1,0 +1,18 @@
+{
+  "python": "3.13.9 | packaged by Anaconda, Inc. | (main, Oct 21 2025, 19:16:10) [GCC 11.2.0]",
+  "platform": "Linux-7.0.0-38-generic-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "torch": "2.15.0+cpu",
+  "numpy": "2.3.5",
+  "networkx": "3.5",
+  "matplotlib": "3.10.6",
+  "pytest": "8.4.2",
+  "cuda_available": false,
+  "device": "CPU",
+  "threads_per_experiment": 1,
+  "logical_cpus": 28,
+  "paper_sha256": "c15d500dd1c260aad1e22e45bbdf1a1d21bb5c11c979b3d6c7609444f8d61d77",
+  "paper_doi": "10.1109/QCE65121.2025.10318",
+  "date": "2026-11-10",
+  "note": "Training seeds ran concurrently in separate processes. Evaluation runs after training finishes."
+}

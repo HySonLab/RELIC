@@ -1,0 +1,7 @@
+{
+  "initial_validation_normalized_energy": 0.7439098289402493,
+  "best_validation_normalized_energy": -0.7615240710734674,
+  "best_epoch": 20,
+  "epochs_run": 30,
+  "seconds": 115.45611029304564
+}

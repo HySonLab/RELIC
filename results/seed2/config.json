@@ -1,0 +1,18 @@
+{
+  "seed": 2,
+  "data_seed": 1000,
+  "nodes": 25,
+  "train_graphs": 64,
+  "validation_graphs": 18,
+  "width": 32,
+  "layers": 3,
+  "epochs": 30,
+  "batch_size": 8,
+  "rollouts": 2,
+  "lr": 0.001,
+  "epsilon_start": 0.2,
+  "epsilon_decay_epochs": 10,
+  "gradient_clip": 1.0,
+  "patience": 12,
+  "threads": 1
+}

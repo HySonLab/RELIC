@@ -1,0 +1,30 @@
+{
+  "instances_per_configuration": 3,
+  "training_seeds": [
+    0,
+    1,
+    2
+  ],
+  "ising_sizes": [
+    12,
+    25,
+    50,
+    100
+  ],
+  "mis_sizes": [
+    16,
+    50,
+    100
+  ],
+  "mis_degrees": [
+    3,
+    5,
+    7,
+    9
+  ],
+  "stochastic_samples": 8,
+  "pignn_steps": 300,
+  "penalty": 2.0,
+  "seconds": 69.01433415501378,
+  "timing_note": "Single CPU thread; includes Python graph manipulation; excludes model loading and RELIC training. PI-GNN includes per-instance training. All times measured while other desktop activity may occur."
+}
